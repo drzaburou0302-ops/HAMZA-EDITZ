@@ -1,4 +1,4 @@
-@声可愛過剰摂取中毒: name: RDP
+name: RDP
 on:
 workflow_dispatch:
 jobs:
